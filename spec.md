@@ -35,7 +35,6 @@ _注意: 这只是本人的建议，并没有为任何人规定流程。_
 
 
 ### 项目1
-**状态:** 必须
 
 **要求:**
 
@@ -46,8 +45,6 @@ _注意: 这只是本人的建议，并没有为任何人规定流程。_
 
 - 在百度上下东西非常需要你的慧眼
 ### 项目2
-**状态:** 非必须
-
 
 **要求:**
 
@@ -58,13 +55,14 @@ _注意: 这只是本人的建议，并没有为任何人规定流程。_
 - 看懂越多越好
 
 ### 项目3
-**状态:** 必须
 
 **要求:**
 - _实现单片机的helloword_[快来点我](https://github.com/yujiecong/cc-c51-learning/tree/master/contents/project3%20%E7%82%B9%E4%BA%AE%E4%B8%80%E4%B8%AALED)
 
 ### 项目4
 
+**要求:**
+- _实现流水灯_[快来点我](https://github.com/yujiecong/cc-c51-learning/tree/master/contents/project4%20%E6%B5%81%E6%B0%B4%E7%81%AF%E5%AE%9E%E9%AA%8C)
 
 ### 项目5
 

@@ -152,6 +152,32 @@ C51没有专门的循环左移和循环右移指令，但我们可以调用C51�
 i=_crol_(i,1);/*将i循环左移1位*/
 i=_cror_(i,1);/*将i循环右移1位*/  
 ```
+keil中的help有相关信息
+```
+_crol_
+Summary #include <intrins.h>
+
+unsigned char _crol_ (
+  unsigned char c,        /* character to rotate left */
+  unsigned char b);       /* bit positions to rotate */
+ 
+Description The _crol_ routine rotates the bit pattern for the character c left b bits. This routine is implemented as an intrinsic function.
+ 
+Return Value The _crol_ routine returns the rotated value of c.
+ 
+ 
+Example #include <intrins.h>
+
+void test_crol (void) {
+  char a;
+  char b;
+
+  a = 0xA5;
+  b = _crol_(a,3); /* b now is 0x2D */
+}
+ 
+
+```
 __用循环左移编写第三个流水灯程序。__
 
 ### 流水灯电路原理图

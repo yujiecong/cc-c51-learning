@@ -85,47 +85,32 @@ _注意: 这只是本人的建议，并没有为任何人规定流程。_
 - _中断系统_[快来点我](https://github.com/yujiecong/cc-c51-learning/tree/master/contents/project9%20%E5%8D%95%E7%89%87%E6%9C%BA%E4%B8%AD%E6%96%AD%E7%B3%BB%E7%BB%9F)
 
 ### 项目10
-
+- _定时器的使用_[快来点我](https://github.com/yujiecong/cc-c51-learning/tree/master/contents/project10%20%E5%8D%95%E7%89%87%E6%9C%BA%E5%AE%9A%E6%97%B6%E5%99%A8)
 ###  项目11
+- _串口通信先不学_
 
-
-**建议:**
-
+**建议:**  
+比较难，与通信相关
 
 ### 项目12
-
+- _做一个秒表_[快来点我](https://github.com/yujiecong/cc-c51-learning/tree/master/contents/project12%20%E7%A7%92%E8%A1%A8)
 
 ### 额外部分
-
+- 暂无
 
 ### 维护者
-
+- yujiecong
 
 ### 致谢
-**状态:** 
-
-**要求:**
-
-
-**建议:**
+- yujiecong
 
 
 ### 如何贡献
-**状态:** 必需.
-
-**要求:**
-
-
-**建议:**
-
+pr或者提交你的issues
 
 
 ### 许可证
-**状态:** 必须
-
-**要求:**
-
-**建议:**
+嗯嗯嗯看license
 
 
 

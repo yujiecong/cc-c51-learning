@@ -6,7 +6,7 @@
 
 希望在这里记录下自己的学习，让自己有那么一点点成就感，可以坚持下去！  
 
-_目前看来是硬撑的，哈哈哈，好难受_
+_目前已经接近尾声_
 
 __教程使用的是[亚博智能MINNI51开发](https://www.yahboom.com/study/m51)__
 
@@ -33,20 +33,19 @@ __教程使用的是[亚博智能MINNI51开发](https://www.yahboom.com/study/m5
 `cc-c51` 最开始因为 我 自己早就想学51单片机了，但是一直以来因为或多或少的事一直拖到了大三。本来自己也蛮喜欢写类似这种blog的东西，公众号又不太方便，就只能来这里了，哪怕没人看，反正只是自己看的，因此这个项目也就从这开始了。
 
 > 这个项目纯粹是个人向，我也会尽力会写详细，当然除了一些人尽皆知的常识
-
-
-
 —— yujiecong
 
 这个仓库的目标是：
 
 1. 一个定义良好的**教程导向**。在仓库中的位置是 [spec.md](spec.md)。它是一个一直在持续优化的文档，欢迎您提 Issue 讨论其中的变化。
-2. 待定
+2. 了解STC89C51的功能和用法，初步接触单片机。
+3. 为STM32做点准备。
 
 ## 安装
 
-这个项目使用 [vscode](https://code.visualstudio.com/) 和 [keil4](http://www.downza.cn/soft/7730.html)以及[stc-isp](http://www.pc6.com/softview/SoftView_66617.html)。请确保你本地安装了它们。
+这个项目使用 [vscode](https://code.visualstudio.com/) 和 [keil4](http://www.downza.cn/soft/7730.html)以及[stc-isp](http://www.pc6.com/softview/SoftView_66617.html)。请确保你本地安装了它们。  
 
+__vscode是不一定需要的，但现在都0202年了，谁用那个老套的ide__
 ```sh
 待定
 ```
@@ -56,18 +55,18 @@ __教程使用的是[亚博智能MINNI51开发](https://www.yahboom.com/study/m5
 这只是一个文档包，你可以打印出 [spec.md](spec.md) 到输出窗口。
 
 ```sh
-待定
+具体怎么编译到执行和烧录，去网上找吧，这种懒得讲了。
 ```
 
 
 ## 示例
 
-暂无
+木有
 
 ## 相关仓库
 
 - 暂无
-- 暂无
+- 可能以后会有
 
 ## 维护者
 
@@ -87,4 +86,4 @@ __教程使用的是[亚博智能MINNI51开发](https://www.yahboom.com/study/m5
 
 
 ## 使用许可
-别喷我都能用hhh
+_遵循license_

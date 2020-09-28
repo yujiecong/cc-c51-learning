@@ -43,7 +43,7 @@ __教程使用的是[亚博智能MINNI51开发](https://www.yahboom.com/study/m5
 
 ## 安装
 
-这个项目使用 [vscode](https://code.visualstudio.com/) 和 [keil4](http://www.downza.cn/soft/7730.html)以及[stc-isp](http://www.pc6.com/softview/SoftView_66617.html)。请确保你本地安装了它们。  
+这个项目使用 [vscode](https://code.visualstudio.com/) 和 keil4(百度找吧..)以及[stc-isp](http://www.pc6.com/softview/SoftView_66617.html)。请确保你本地安装了它们。  
 
 __vscode是不一定需要的，但现在都0202年了，谁用那个老套的ide__
 ```sh

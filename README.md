@@ -1,12 +1,13 @@
-# 聪聪的c51学习之旅
+# 聪聪的单片机学习之旅
 
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/yujiecong/cc-c51-learning)
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/yujiecong/cc-c51-learning)  
+话说还是要从最基础的51学起啊。真不错啊  
 
 这是好久之前就要学的东西，非要拖在现在，是因为我真的太懒了，而且也太菜了。
 
 希望在这里记录下自己的学习，让自己有那么一点点成就感，可以坚持下去！  
-
-_目前已经更完_
+## 更新
+- 2020年9月29日16:50:11 已经暂停更新，如果发现什么奇怪的内容或者不完整，请提交issues_please_
 ## requirement
 __教程使用的是[亚博智能MINNI51开发](https://www.yahboom.com/study/m51)__
 _开发板为BST-M51_  

@@ -1,6 +1,6 @@
 # 聪聪的单片机学习之旅
 
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/yujiecong/cc-c51-learning)  
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/yujiecong/yjc-BST-M51-learning)  
 话说还是要从最基础的51学起啊。真不错啊  
 
 这是好久之前就要学的东西，非要拖在现在，是因为我真的太懒了，而且也太菜了。
@@ -66,8 +66,7 @@ __vscode是不一定需要的，但现在都0202年了，谁用那个老套的id
 
 ## 相关仓库
 
-- 暂无
-- 可能以后会有
+- [普中 51-单核-A2 开发](https://github.com/yujiecong/yjc-c51-A2-learning)
 
 ## 维护者
 
@@ -75,7 +74,7 @@ __vscode是不一定需要的，但现在都0202年了，谁用那个老套的id
 
 ## 如何贡献
 
-非常欢迎你的加入！[提一个 Issue](https://github.com/yujiecong/cc-c51-learning/issues/new) 或者提交一个 Pull Request。
+非常欢迎你的加入！[提一个 Issue](https://github.com/yujiecong/yjc-BST-M51-learning/issues/new) 或者提交一个 Pull Request。
 
 
 本 Readme 遵循 [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) 行为规范。
